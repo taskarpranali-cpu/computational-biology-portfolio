@@ -17,6 +17,14 @@ This portfolio showcases hands-on projects demonstrating my ability to:
 
 ---
 
+## Foundations
+
+### 0. [Python Foundations for Biology](./00-python-foundations/)
+**Tools:** Python, NumPy, Pandas, scikit-learn  
+Core Python skills built from scratch using biology examples — DNA sequence analysis, FASTA parsing, gene expression data handling, and exploratory analysis of the Breast Cancer Wisconsin dataset.
+
+---
+
 ## Projects
 
 ### 1. [Genomics Expression Analysis](./01-genomics-expression-analysis/)
@@ -66,4 +74,4 @@ An agentic workflow where an LLM queries biological databases (UniProt, NCBI, PD
 ## Contact
 
 - Email: [taskar.pranali@gmail.com](mailto:taskar.pranali@gmail.com)
-- GitHub: [github.com/yourusername](https://github.com/yourusername) *(update with your username)*
+- GitHub: [github.com/taskarpranali-cpu](https://github.com/taskarpranali-cpu)
